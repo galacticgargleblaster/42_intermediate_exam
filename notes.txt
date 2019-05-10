@@ -1,0 +1,29 @@
+NEEDS WORK
+
+queue:
+- dequeue could be cleaner
+- should include struct defns in c source
+
+is_looping:
+- should include struct defns in c source
+
+height_tree:
+- don't know what's wrong with my solution.  It works on the testcases I've defined.
+
+longest_sequence:
+- ^^
+
+ord_alphlong: 
+- when sorting linked lists, make sure not to swap forever
+
+STUPID ERRORS
+2:
+	str_maxlenoc - improperly named file
+
+OK
+0:
+	is_anagram
+1:
+	count_alpha
+2:
+	reverse_tree
